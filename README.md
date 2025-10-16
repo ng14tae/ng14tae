@@ -18,6 +18,7 @@ KANIDIAN POKER : https://kanipoke.onrender.com/
 
 ## ✍️  Article
 
+- [「デジタル観葉植物×簡単出退勤記録　green_time」](https://note.com/mc42d/n/nbae166c307bd?from=notice) <br>
 - [【個人開発】ミニゲームwebアプリ「KANIDIAN POKER」を作りました【Ruby on Rails】](https://qiita.com/ng14tae/items/6e6528cc48ca673c6369) <br>
 - [sorceryを使用した“簡単ログイン機能”の実装](https://qiita.com/ng14tae/items/bbfa67b6e4439b1651ca)
 
