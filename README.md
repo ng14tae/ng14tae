@@ -9,11 +9,13 @@
 
 KANIDIAN POKER : https://kanipoke.onrender.com/
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d4a9dc04-5155-4efd-8c55-cba2f2a61e27" />
+<img width="384" height="216" alt="Image" src="https://github.com/user-attachments/assets/d4a9dc04-5155-4efd-8c55-cba2f2a61e27" />
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=ng14tae&show_icons=true&locale=en&layout=compact)
 
+[![Twitter](https://img.shields.io/badge/%40sss__727-4c4c4c?logo=X&logoColor=ffffff&label=Twitter&labelColor=00acee
+)](https://x.com/sss__727)
 
 
 ## ✍️  Article
