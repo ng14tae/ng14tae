@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-## 🌼  About me
+
+## 🌼  About me🌼
 - 2014-2025　編集業に従事。<br>
 - 2025.4〜　オンラインプログラミングスクールRUNTEQ入学。<br>
               現在、Ruby on Railsを学習中。
