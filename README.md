@@ -12,6 +12,10 @@ KANIDIAN POKER : https://kanipoke.onrender.com/
 
 <img width="384" height="216" alt="Image" src="https://github.com/user-attachments/assets/d4a9dc04-5155-4efd-8c55-cba2f2a61e27" />
 
+green_time（開発中）
+
+<img width="384" height="216" alt="Image" src="https://github.com/user-attachments/assets/400d5817-53da-4009-9db1-a43e4b7aec6f" />
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=ng14tae&show_icons=true&locale=en&layout=compact)
 
