@@ -27,6 +27,7 @@ cheers_timer（開発中）
 
 ## ✍️  Article
 
+- [簡単勤怠管理アプリ　cheers_timer　リリースノート⑤（仮）からの卒業](https://note.com/mc42d/n/nc2ffdcf7ebb8?sub_rt=share_pb) <br>
 - [デジタル観葉植物×簡単出退勤記録　green_time　リリースノート④気分チェッカー](https://note.com/mc42d/n/nc2ffdcf7ebb8?sub_rt=share_pb) <br>
 - [デジタル観葉植物×簡単出退勤記録　green_time　リリースノート③MVPリリース](https://note.com/mc42d/n/n961f2fd9b7eb?sub_rt=share_pb) <br>
 - [デジタル観葉植物×簡単出退勤記録　green_time　リリースノート②画面遷移図、ER図](https://note.com/mc42d/n/n595c2ba81c18?app_launch=false) <br>
