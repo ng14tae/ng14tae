@@ -12,9 +12,9 @@ KANIDIAN POKER : https://kanipoke.onrender.com/
 
 <img width="384" height="216" alt="Image" src="https://github.com/user-attachments/assets/d4a9dc04-5155-4efd-8c55-cba2f2a61e27" /><br><br>
 
-green_time（開発中）
+cheers_timer（開発中）
 
-<img width="384" height="216" alt="Image" src="https://github.com/user-attachments/assets/400d5817-53da-4009-9db1-a43e4b7aec6f" /><br><br><br>
+<img width="384" alt="Image" src="https://github.com/user-attachments/assets/b52c5b29-4186-45e1-800b-636161726431" /><br><br><br>
 
 
 
