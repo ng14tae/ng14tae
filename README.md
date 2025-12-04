@@ -26,6 +26,10 @@ cheers_timer ： https://cheers-timer.com/
 )](https://x.com/sss__727)<br><br>
 
 
+## 🏆　Award
+![Image](https://github.com/user-attachments/assets/66c2904d-24ad-4edd-9cd1-47fe6f1ebb00)
+
+
 ## ✍️  Article
 
 - [簡単勤怠管理アプリ　cheers_timer　リリースノート⑤（仮）からの卒業](https://note.com/mc42d/n/nc2ffdcf7ebb8?sub_rt=share_pb) <br>
