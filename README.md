@@ -31,8 +31,10 @@ cheers_timer ： https://cheers-timer.com/
 
 
 ## ✍️  Article
+<br>
 
 
+- [「わかるようでわからない」から卒業するためのTips 〜技術を推しに例えたら理解が深まった話〜](https://qiita.com/ng14tae/items/41d7000ecec075bcc650) <br>
 - [【個人開発】LIFF×LINE ID連携で簡単！活動時間記録アプリ「cheers-timer」を作りました](https://qiita.com/ng14tae/items/6f9b6f7635ca7819ec6b) <br>
 - [簡単勤怠管理アプリ　cheers_timer　リリースノート⑤（仮）からの卒業](https://note.com/mc42d/n/nc2ffdcf7ebb8?sub_rt=share_pb) <br>
 - [デジタル観葉植物×簡単出退勤記録　green_time　リリースノート④気分チェッカー](https://note.com/mc42d/n/nc2ffdcf7ebb8?sub_rt=share_pb) <br>
